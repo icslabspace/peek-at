@@ -17,9 +17,9 @@ Join us on slack: [peek-at-clojure](https://peek-at.slack.com/shared_invite/MTgx
 
 # Structure
 
-A bunch of directories each having it's own well designated place.
-* peekatclojure - is used for various workshops to share handouts useful setups/materials etc
-* ml - a bunch of ml algs (and sugestions to various Clojure APIs and projects to use with this field).
+A bunch of links each having it's own well designated place.
+* [peekatclojure](https://github.com/alex-gherega/peek-at-clojure) - is used for various workshops to share handouts useful setups/materials etc
+* [ml](https://github.com/alex-gherega/ml) - a bunch of ml algs (and sugestions to various Clojure APIs and projects to use with this field).
 * the list should grow
 
 # Want to join? 
